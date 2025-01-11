@@ -1,3 +1,5 @@
+<!--markdownlint-disable-->
+
 <div align="center">
 
 # Sign Language Translator ⠎⠇⠞
@@ -26,22 +28,25 @@
 
 ---
 
-1. [Overview](#overview)
-   1. [Solution](#solution)
-   2. [Major Components](#major-components)
-   3. [Goals](#goals)
-2. [**Installation** `🛠️`](#how-to-install-the-package)
-3. [**Usage**](#usage)
-   1. [Web 🌐](#web-gui)
-   2. [Python `🐍`](#python)
-   3. [Command Line <span style="color:green">**`>_`**</span>](#command-line)
-4. [Languages](#languages)
-5. [Models](#models)
-6. [How to Build a Translator for your Sign Language](#how-to-build-a-translator-for-sign-language)
-7. [Module Hierarchy](#module-hierarchy)
-8. [How to Contribute](#how-to-contribute)
-9. [Citation, License & Research Papers](#citation-licence--research-papers)
-10. [Credits and Gratitude](#credits-and-gratitude)
+- [Sign Language Translator ⠎⠇⠞](#sign-language-translator-)
+  - [Overview](#overview)
+    - [Solution](#solution)
+    - [Major Components](#major-components)
+    - [Goals](#goals)
+  - [How to install the package](#how-to-install-the-package)
+  - [Usage](#usage)
+    - [Web GUI](#web-gui)
+    - [Python](#python)
+    - [Command Line](#command-line)
+  - [Languages](#languages)
+  - [Models](#models)
+  - [How to Build a Translator for Sign Language](#how-to-build-a-translator-for-sign-language)
+  - [Module Hierarchy](#module-hierarchy)
+  - [How to Contribute](#how-to-contribute)
+  - [Upcoming/Roadmap](#upcomingroadmap)
+  - [Citation, Licence \& Research Papers](#citation-licence--research-papers)
+  - [Credits and Gratitude](#credits-and-gratitude)
+  - [Bonus](#bonus)
 
 ## Overview
 
